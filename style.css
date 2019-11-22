@@ -1,0 +1,93 @@
+body {
+    margin-top: 0px auto;
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 150%;
+    background: url("images/criss-cross.jpg");
+    
+}
+
+#nav {
+    margin: 0px auto;
+    margin-bottom: 50px;
+}
+
+.bg-light {
+    background-color: #ffffff !important;
+}
+
+h1 {
+    margin: auto0px auto;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    margin-left: 275px;
+}
+
+.navbar-brand {
+    margin: 10px;
+    background-color: #4aaaa5;
+    padding: 25px;
+    font-family: Georgia, Times,'Times New Roman', serif;
+    height: 75px;
+    margin-left: 275px;
+    }
+
+#full {
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 960px;
+    background-color: #ffffff;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+hr {
+    height: 2px;
+    background-color: #dddddd;
+    margin-right: 40px;
+    margin-left: 40px;  
+   }
+
+h2 {
+    margin: 0px auto;
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    color: #4aaaa5;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#image {
+    margin: 0px auto;
+    padding-left: 13px;
+    margin-bottom: 0px;
+    float: left;
+}
+
+.portfolioimage {
+    margin:20px !important;
+    padding: 10px !important;
+    height: 300px;
+    width: 300px;
+  }
+
+
+
+.form-group {
+    margin-left: 40px;
+    margin-right: 40px;
+    color: #777777;
+}
+
+footer {
+    margin: 0px auto;
+    margin-top: 210px;
+    padding: 20px;
+    width: 100%;
+    border-top: 8px solid #4aaaa5;
+    background: #666666;
+    color: #ffffff;
+    text-align: center;
+    position: sticky;
+  }
+  
