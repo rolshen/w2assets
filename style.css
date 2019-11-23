@@ -12,7 +12,11 @@ h1 {
     margin: auto0px auto;
     background-color: #4aaaa5;
     color: #ffffff;
-    margin-left: 320px;
+    margin-left: 265px;
+}
+
+.navbar {
+    background-color: #ffffff !important;
 }
 
 .navbar-nav {
