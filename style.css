@@ -8,32 +8,18 @@ body {
     
 }
 
-#nav {
-    margin: 0px auto;
-    margin-bottom: 50px;
-}
-
-.bg-light {
-    background-color: #ffffff !important;
-}
-
 h1 {
     margin: auto0px auto;
     background-color: #4aaaa5;
     color: #ffffff;
-    margin-left: 275px;
+    margin-left: 320px;
 }
 
-.navbar-brand {
-    margin: 10px;
-    background-color: #4aaaa5;
-    padding: 25px;
-    font-family: Georgia, Times,'Times New Roman', serif;
-    height: 75px;
-    margin-left: 275px;
-    }
+.navbar-nav {
+    margin-right: 260px;
+}
 
-#full {
+.container {
     margin: 0 auto;
     margin-top: 50px;
     width: 960px;
@@ -65,7 +51,7 @@ h2 {
 }
 
 .portfolioimage {
-    margin:20px !important;
+    margin:30px !important;
     padding: 10px !important;
     height: 300px;
     width: 300px;
